@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cálculo de Salário de Professores</string>
+    <string name="professor_titular">Professor Titular</string>
+    <string name="anos_instituicao">Anos na Instituição</string>
+    <string name="salario_base">Salário Base</string>
+    <string name="calcular_salario_titular">Calcular Salário Titular</string>
+    <string name="salario_titular">Salário Titular</string>
+
+    <string name="professor_horista">Professor Horista</string>
+    <string name="horas_aula">Horas de Aula</string>
+    <string name="valor_hora_aula">Valor por Hora de Aula</string>
+    <string name="calcular_salario_horista">Calcular Salário Horista</string>
+    <string name="salario_horista">Salário Horista</string>
+</resources>
